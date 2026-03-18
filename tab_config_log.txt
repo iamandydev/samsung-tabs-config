@@ -1,0 +1,1302 @@
+16/08/2025 - R58NB3EGZ9E
+[01B000] ADB conectado correctamente - ID: R58NB3EGZ9E
+[02F000] Error eliminando com.facebook.katana
+[03F000] No se encontró Samsung Daily Board
+[03R001] App Android Setup deshabilitada
+
+16/08/2025 21:40:11 - ADB conectado correctamente - R58NB3EGZ9E
+16/08/2025 21:40:11 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+16/08/2025 21:40:12 - [UNINSTALL] com.spotify.music no encontrada o error
+16/08/2025 21:40:12 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+16/08/2025 21:40:12 - [UNINSTALL] com.samsung.sree no encontrada o error
+16/08/2025 21:40:12 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+16/08/2025 21:40:12 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+16/08/2025 21:40:12 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+16/08/2025 21:40:13 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+16/08/2025 21:40:13 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+16/08/2025 21:40:13 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+16/08/2025 21:40:13 - [DISABLE] Android Setup deshabilitada
+16/08/2025 21:40:13 - [DISABLE] Samsung Daily deshabilitado
+16/08/2025 21:40:13 - [DISABLE] Google Discover deshabilitado
+16/08/2025 21:40:32 - [INSTALL] OnlyOffice instalado correctamente
+16/08/2025 21:40:34 - [OPEN] OnlyOffice abierto
+16/08/2025 21:40:34 - successful - S4-01
+16/08/2025 21:41:01 - ADB conectado correctamente - R58NB3EGZ9E
+16/08/2025 21:41:01 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+16/08/2025 21:41:02 - [UNINSTALL] com.spotify.music no encontrada o error
+16/08/2025 21:41:02 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+16/08/2025 21:41:02 - [UNINSTALL] com.samsung.sree no encontrada o error
+16/08/2025 21:41:02 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+16/08/2025 21:41:02 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+16/08/2025 21:41:02 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+16/08/2025 21:41:03 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+16/08/2025 21:41:03 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+16/08/2025 21:41:03 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+16/08/2025 21:41:03 - [DISABLE] Android Setup deshabilitada
+16/08/2025 21:41:03 - [DISABLE] Samsung Daily deshabilitado
+16/08/2025 21:41:03 - [DISABLE] Google Discover deshabilitado
+16/08/2025 21:41:04 - [INSTALL] OnlyOffice ya estaba instalado
+16/08/2025 21:41:05 - [OPEN] OnlyOffice abierto
+16/08/2025 21:41:05 - successful - S4-02
+16/08/2025 21:54:04 - ADB conectado correctamente - R58NB3EGZ9E
+16/08/2025 21:54:04 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+16/08/2025 21:54:04 - [UNINSTALL] com.spotify.music no encontrada o error
+16/08/2025 21:54:04 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+16/08/2025 21:54:04 - [UNINSTALL] com.samsung.sree no encontrada o error
+16/08/2025 21:54:05 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+16/08/2025 21:54:05 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+16/08/2025 21:54:05 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+16/08/2025 21:54:05 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+16/08/2025 21:54:05 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+16/08/2025 21:54:05 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+16/08/2025 21:54:05 - [DISABLE] Android Setup deshabilitada
+16/08/2025 21:54:06 - [DISABLE] Samsung Daily deshabilitado
+16/08/2025 21:54:06 - [DISABLE] Google Discover deshabilitado
+16/08/2025 21:54:06 - [INSTALL] OnlyOffice ya estaba instalado
+16/08/2025 21:54:07 - [OPEN] OnlyOffice abierto
+16/08/2025 21:54:07 - successful - S4-03
+16/08/2025 21:54:07 - [SUMMARY] R58NB3EGZ9E → S4-03 completado en 3.48s
+16/08/2025 21:58:41 - ADB conectado correctamente - R58NB3EGZ9E
+16/08/2025 21:58:41 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+16/08/2025 21:58:41 - [UNINSTALL] com.spotify.music no encontrada o error
+16/08/2025 21:58:42 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+16/08/2025 21:58:42 - [UNINSTALL] com.samsung.sree no encontrada o error
+16/08/2025 21:58:42 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+16/08/2025 21:58:42 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+16/08/2025 21:58:42 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+16/08/2025 21:58:42 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+16/08/2025 21:58:43 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+16/08/2025 21:58:43 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+16/08/2025 21:58:43 - [DISABLE] Android Setup deshabilitada
+16/08/2025 21:58:43 - [DISABLE] Samsung Daily deshabilitado
+16/08/2025 21:58:43 - [DISABLE] Google Discover deshabilitado
+16/08/2025 21:58:44 - [INSTALL] OnlyOffice ya estaba instalado
+16/08/2025 21:58:45 - [OPEN] OnlyOffice abierto
+16/08/2025 21:58:45 - successful - S4-04
+16/08/2025 21:58:45 - R58NB3EGZ9E → S4-04 completado en 4.26s
+16/08/2025 22:15:57 - ADB conectado correctamente - R58NB3EGZ9E
+16/08/2025 22:15:57 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+16/08/2025 22:15:57 - [UNINSTALL] com.spotify.music no encontrada o error
+16/08/2025 22:15:57 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+16/08/2025 22:15:57 - [UNINSTALL] com.samsung.sree no encontrada o error
+16/08/2025 22:15:58 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+16/08/2025 22:15:58 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+16/08/2025 22:15:58 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+16/08/2025 22:15:58 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+16/08/2025 22:15:58 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+16/08/2025 22:15:58 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+16/08/2025 22:15:58 - [DISABLE] Android Setup deshabilitada
+16/08/2025 22:15:58 - [DISABLE] Samsung Daily deshabilitado
+16/08/2025 22:15:59 - [DISABLE] Google Discover deshabilitado
+16/08/2025 22:15:59 - [INSTALL] OnlyOffice ya estaba instalado
+16/08/2025 22:16:00 - [OPEN] OnlyOffice abierto
+16/08/2025 22:16:00 - successful - S4-05
+16/08/2025 22:16:00 - R58NB3EGZ9E → S4-05 completado en 3.11s
+19/08/2025 12:53:00 - Error: No hay dispositivos conectados
+19/08/2025 12:53:08 - ADB conectado correctamente - R92X61G24MY
+19/08/2025 12:53:09 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 12:53:09 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 12:53:10 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 12:53:10 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 12:53:10 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 12:53:11 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 12:53:11 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 12:53:11 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 12:53:12 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 12:53:12 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 12:53:12 - [DISABLE] Android Setup deshabilitada
+19/08/2025 12:53:13 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 12:53:13 - [DISABLE] Google Discover deshabilitado
+19/08/2025 12:53:40 - ADB conectado correctamente - R92X61G24MY
+19/08/2025 12:53:41 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+19/08/2025 12:53:41 - [UNINSTALL] com.spotify.music no encontrada o error
+19/08/2025 12:53:41 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+19/08/2025 12:53:41 - [UNINSTALL] com.samsung.sree no encontrada o error
+19/08/2025 12:53:41 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 12:53:41 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+19/08/2025 12:53:41 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 12:53:41 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+19/08/2025 12:53:42 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+19/08/2025 12:53:42 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+19/08/2025 12:53:42 - [DISABLE] Android Setup deshabilitada
+19/08/2025 12:53:42 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 12:53:42 - [DISABLE] Google Discover deshabilitado
+19/08/2025 12:53:42 - [INSTALL] OnlyOffice ya estaba instalado
+19/08/2025 12:53:44 - [OPEN] OnlyOffice abierto
+19/08/2025 12:53:44 - successful - S5-01
+19/08/2025 12:53:44 - R92X61G24MY → S5-01 completado en 3.72s
+19/08/2025 12:57:55 - ADB conectado correctamente - R92X61G251R
+19/08/2025 12:57:55 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 12:57:56 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 12:57:56 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 12:57:57 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 12:57:57 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 12:57:57 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 12:57:57 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 12:57:58 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 12:57:58 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 12:57:58 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 12:57:58 - [DISABLE] Android Setup deshabilitada
+19/08/2025 12:57:59 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 12:57:59 - [DISABLE] Google Discover deshabilitado
+19/08/2025 12:58:18 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 12:58:20 - [OPEN] OnlyOffice abierto
+19/08/2025 12:58:20 - successful - S5-02
+19/08/2025 12:58:20 - R92X61G251R → S5-02 completado en 25.33s
+19/08/2025 13:01:40 - ADB conectado correctamente - R92X40LZG5J
+19/08/2025 13:01:41 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 13:01:41 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 13:01:42 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 13:01:42 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 13:01:42 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 13:01:43 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 13:01:43 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 13:01:43 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 13:01:44 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 13:01:44 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 13:01:44 - [DISABLE] Android Setup deshabilitada
+19/08/2025 13:01:45 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 13:01:45 - [DISABLE] Google Discover deshabilitado
+19/08/2025 13:02:06 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 13:02:08 - [OPEN] OnlyOffice abierto
+19/08/2025 13:02:08 - successful - S5-03
+19/08/2025 13:02:08 - R92X40LZG5J → S5-03 completado en 27.91s
+19/08/2025 13:07:57 - ADB conectado correctamente - R92X40LZBPX
+19/08/2025 13:07:58 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 13:07:58 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 13:07:58 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 13:07:59 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 13:07:59 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 13:07:59 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 13:07:59 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 13:08:00 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 13:08:00 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 13:08:00 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 13:08:01 - [DISABLE] Android Setup deshabilitada
+19/08/2025 13:08:01 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 13:08:01 - [DISABLE] Google Discover deshabilitado
+19/08/2025 13:08:20 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 13:08:21 - [OPEN] OnlyOffice abierto
+19/08/2025 13:08:21 - successful - S5-04
+19/08/2025 13:08:21 - R92X40LZBPX → S5-04 completado en 24.28s
+19/08/2025 13:13:03 - ADB conectado correctamente - R92X40LZ91Y
+19/08/2025 13:13:03 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 13:13:04 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 13:13:04 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 13:13:05 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 13:13:05 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 13:13:05 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 13:13:05 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 13:13:06 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 13:13:06 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 13:13:07 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 13:13:07 - [DISABLE] Android Setup deshabilitada
+19/08/2025 13:13:07 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 13:13:07 - [DISABLE] Google Discover deshabilitado
+19/08/2025 13:13:28 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 13:13:30 - [OPEN] OnlyOffice abierto
+19/08/2025 13:13:30 - successful - S5-05
+19/08/2025 13:13:30 - R92X40LZ91Y → S5-05 completado en 27.93s
+19/08/2025 13:15:33 - ADB conectado correctamente - R92X40LZHZB
+19/08/2025 13:15:33 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 13:15:34 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 13:15:34 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 13:15:34 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 13:15:35 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 13:15:35 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 13:15:35 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 13:15:36 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 13:15:36 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 13:15:36 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 13:15:37 - [DISABLE] Android Setup deshabilitada
+19/08/2025 13:15:37 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 13:15:37 - [DISABLE] Google Discover deshabilitado
+19/08/2025 13:15:56 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 13:15:58 - [OPEN] OnlyOffice abierto
+19/08/2025 13:15:58 - successful - S5-06
+19/08/2025 13:15:58 - R92X40LZHZB → S5-06 completado en 25.27s
+19/08/2025 13:20:21 - ADB conectado correctamente - R92X40M0AVT
+19/08/2025 13:20:21 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 13:20:22 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 13:20:22 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 13:20:23 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 13:20:23 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 13:20:23 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 13:20:23 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 13:20:24 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 13:20:24 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 13:20:24 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 13:20:25 - [DISABLE] Android Setup deshabilitada
+19/08/2025 13:20:25 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 13:20:25 - [DISABLE] Google Discover deshabilitado
+19/08/2025 13:20:43 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 13:20:45 - [OPEN] OnlyOffice abierto
+19/08/2025 13:20:45 - successful - S5-07
+19/08/2025 13:20:45 - R92X40M0AVT → S5-07 completado en 24.41s
+19/08/2025 13:23:11 - Error: No hay dispositivos conectados
+19/08/2025 13:23:15 - ADB conectado correctamente - R92X40LZNJX
+19/08/2025 13:23:15 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 13:23:16 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 13:23:16 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 13:23:17 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 13:23:17 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 13:23:17 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 13:23:17 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 13:23:18 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 13:23:18 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 13:23:19 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 13:23:19 - [DISABLE] Android Setup deshabilitada
+19/08/2025 13:23:20 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 13:23:20 - [DISABLE] Google Discover deshabilitado
+19/08/2025 13:23:42 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 13:23:44 - [OPEN] OnlyOffice abierto
+19/08/2025 13:23:44 - successful - S5-08
+19/08/2025 13:23:44 - R92X40LZNJX → S5-08 completado en 29.09s
+19/08/2025 13:26:46 - ADB conectado correctamente - R92X51MKGBL
+19/08/2025 13:26:46 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 13:26:47 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 13:26:48 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 13:26:48 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 13:26:49 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 13:26:50 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 13:26:50 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 13:26:51 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 13:26:52 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 13:26:53 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 13:26:53 - [DISABLE] Android Setup deshabilitada
+19/08/2025 13:26:53 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 13:26:54 - [DISABLE] Google Discover deshabilitado
+19/08/2025 13:27:13 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 13:27:15 - [OPEN] OnlyOffice abierto
+19/08/2025 13:27:15 - successful - S5-09
+19/08/2025 13:27:15 - R92X51MKGBL → S5-09 completado en 29.42s
+19/08/2025 14:01:49 - ADB conectado correctamente - R92X40M2A0B
+19/08/2025 14:01:50 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:01:50 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:01:51 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:01:51 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:01:52 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:01:52 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:01:52 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:01:53 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:01:53 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:01:54 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:01:54 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:01:54 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:01:54 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:02:14 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:02:16 - [OPEN] OnlyOffice abierto
+19/08/2025 14:02:16 - successful - S5-10
+19/08/2025 14:02:16 - R92X40M2A0B → S5-10 completado en 27.34s
+19/08/2025 14:03:36 - ADB conectado correctamente - R92X61G252E
+19/08/2025 14:03:37 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:03:37 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:03:38 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:03:39 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:03:39 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:03:40 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:03:40 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:03:40 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:03:41 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:03:41 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:03:41 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:03:42 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:03:42 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:04:01 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:04:03 - [OPEN] OnlyOffice abierto
+19/08/2025 14:04:03 - successful - S5-11
+19/08/2025 14:04:03 - R92X61G252E → S5-11 completado en 26.29s
+19/08/2025 14:05:52 - ADB conectado correctamente - R92X40M15XH
+19/08/2025 14:05:52 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:05:53 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:05:54 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:05:54 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:05:54 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:05:55 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:05:55 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:05:55 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:05:56 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:05:56 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:05:56 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:05:57 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:05:57 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:06:16 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:06:19 - [OPEN] OnlyOffice abierto
+19/08/2025 14:06:19 - successful - S5-12
+19/08/2025 14:06:19 - R92X40M15XH → S5-12 completado en 26.98s
+19/08/2025 14:13:30 - ADB conectado correctamente - R92X51H3LAZ
+19/08/2025 14:13:30 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:13:31 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:13:31 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:13:32 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:13:32 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:13:32 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:13:33 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:13:33 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:13:34 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:13:34 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:13:35 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:13:35 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:13:35 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:13:55 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:13:57 - [OPEN] OnlyOffice abierto
+19/08/2025 14:13:58 - successful - S5-13
+19/08/2025 14:13:58 - R92X51H3LAZ → S5-13 completado en 28.08s
+19/08/2025 14:24:17 - ADB conectado correctamente - List
+19/08/2025 14:24:17 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+19/08/2025 14:24:17 - [UNINSTALL] com.spotify.music no encontrada o error
+19/08/2025 14:24:17 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+19/08/2025 14:24:17 - [UNINSTALL] com.samsung.sree no encontrada o error
+19/08/2025 14:24:17 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:24:17 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+19/08/2025 14:24:18 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:24:18 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+19/08/2025 14:24:18 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+19/08/2025 14:24:18 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+19/08/2025 14:24:18 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:24:18 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:24:18 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:24:18 - [INSTALL] Error instalando OnlyOffice
+19/08/2025 14:24:18 - [OPEN] OnlyOffice abierto
+19/08/2025 14:24:18 - successful - S5-10
+19/08/2025 14:24:18 - List → S5-10 completado en 1.22s
+19/08/2025 14:24:39 - ADB conectado correctamente - R92X51MKCPW
+19/08/2025 14:24:39 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:24:40 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:24:40 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:24:41 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:24:41 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:24:41 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:24:42 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:24:42 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:24:42 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:24:43 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:24:43 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:24:43 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:24:43 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:25:03 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:25:04 - [OPEN] OnlyOffice abierto
+19/08/2025 14:25:05 - successful - S5-11
+19/08/2025 14:25:05 - R92X51MKCPW → S5-11 completado en 25.70s
+19/08/2025 14:29:39 - ADB conectado correctamente - R92X40M0KEY
+19/08/2025 14:29:39 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:29:40 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:29:40 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:29:41 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:29:41 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:29:41 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:29:41 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:29:42 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:29:42 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:29:43 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:29:43 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:29:43 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:29:43 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:30:05 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:30:07 - [OPEN] OnlyOffice abierto
+19/08/2025 14:30:07 - successful - S5-11
+19/08/2025 14:30:07 - R92X40M0KEY → S5-11 completado en 28.36s
+19/08/2025 14:32:18 - ADB conectado correctamente - R92X61G1W2M
+19/08/2025 14:32:18 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:32:19 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:32:19 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:32:20 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:32:20 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:32:20 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:32:20 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:32:21 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:32:22 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:32:22 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:32:22 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:32:22 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:32:22 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:32:41 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:32:43 - [OPEN] OnlyOffice abierto
+19/08/2025 14:32:43 - successful - S5-12
+19/08/2025 14:32:43 - R92X61G1W2M → S5-12 completado en 24.93s
+19/08/2025 14:35:03 - ADB conectado correctamente - List
+19/08/2025 14:35:03 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+19/08/2025 14:35:03 - [UNINSTALL] com.spotify.music no encontrada o error
+19/08/2025 14:35:03 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+19/08/2025 14:35:03 - [UNINSTALL] com.samsung.sree no encontrada o error
+19/08/2025 14:35:03 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:35:03 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+19/08/2025 14:35:03 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:35:03 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+19/08/2025 14:35:04 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+19/08/2025 14:35:04 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+19/08/2025 14:35:04 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:35:04 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:35:04 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:35:04 - [INSTALL] Error instalando OnlyOffice
+19/08/2025 14:35:04 - [OPEN] OnlyOffice abierto
+19/08/2025 14:35:04 - successful - S5-13
+19/08/2025 14:35:04 - List → S5-13 completado en 0.90s
+19/08/2025 14:35:21 - ADB conectado correctamente - List
+19/08/2025 14:35:21 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+19/08/2025 14:35:21 - [UNINSTALL] com.spotify.music no encontrada o error
+19/08/2025 14:35:21 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+19/08/2025 14:35:21 - [UNINSTALL] com.samsung.sree no encontrada o error
+19/08/2025 14:35:21 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:35:21 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+19/08/2025 14:35:21 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:35:21 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+19/08/2025 14:35:21 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+19/08/2025 14:35:21 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+19/08/2025 14:35:21 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:35:21 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:35:21 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:35:21 - [INSTALL] Error instalando OnlyOffice
+19/08/2025 14:35:21 - [OPEN] OnlyOffice abierto
+19/08/2025 14:35:21 - successful - S5-14
+19/08/2025 14:35:21 - List → S5-14 completado en 0.86s
+19/08/2025 14:35:52 - ADB conectado correctamente - R92X51MKC9J
+19/08/2025 14:35:52 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:35:53 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:35:54 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:35:54 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:35:54 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:35:55 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:35:55 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:35:55 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:35:55 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:35:56 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:35:56 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:35:56 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:35:57 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:36:14 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:36:16 - [OPEN] OnlyOffice abierto
+19/08/2025 14:36:17 - successful - S5-15
+19/08/2025 14:36:17 - R92X51MKC9J → S5-15 completado en 24.41s
+19/08/2025 14:40:25 - ADB conectado correctamente - R92X61G27AP
+19/08/2025 14:40:26 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:40:26 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:40:27 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:40:27 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:40:27 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:40:28 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:40:28 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:40:29 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:40:29 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:40:29 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:40:29 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:40:30 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:40:30 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:40:50 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:40:52 - [OPEN] OnlyOffice abierto
+19/08/2025 14:40:52 - successful - S5-14
+19/08/2025 14:40:52 - R92X61G27AP → S5-14 completado en 27.08s
+19/08/2025 14:43:31 - ADB conectado correctamente - R92X51H3T7A
+19/08/2025 14:43:31 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:43:32 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:43:32 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:43:32 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:43:33 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:43:33 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:43:33 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:43:34 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:43:34 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:43:34 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:43:35 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:43:35 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:43:35 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:43:54 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:43:56 - [OPEN] OnlyOffice abierto
+19/08/2025 14:43:56 - successful - S5-15
+19/08/2025 14:43:56 - R92X51H3T7A → S5-15 completado en 25.10s
+19/08/2025 14:46:36 - ADB conectado correctamente - R92X40M1FDP
+19/08/2025 14:46:36 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:46:37 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:46:37 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:46:38 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:46:38 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:46:38 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:46:38 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:46:39 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:46:39 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:46:40 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:46:40 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:46:40 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:46:40 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:46:58 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:47:01 - [OPEN] OnlyOffice abierto
+19/08/2025 14:47:01 - successful - S5-16
+19/08/2025 14:47:01 - R92X40M1FDP → S5-16 completado en 25.59s
+19/08/2025 14:49:17 - ADB conectado correctamente - R92X40M1BVX
+19/08/2025 14:49:17 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:49:18 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:49:18 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:49:18 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:49:18 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:49:19 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:49:19 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:49:19 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:49:20 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:49:20 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:49:20 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:49:20 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:49:21 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:49:39 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:49:41 - [OPEN] OnlyOffice abierto
+19/08/2025 14:49:41 - successful - S5-17
+19/08/2025 14:49:41 - R92X40M1BVX → S5-17 completado en 24.65s
+19/08/2025 14:58:18 - ADB conectado correctamente - R92X51H3ACH
+19/08/2025 14:58:19 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 14:58:19 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 14:58:20 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 14:58:20 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 14:58:21 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 14:58:21 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 14:58:21 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 14:58:22 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 14:58:22 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 14:58:23 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 14:58:24 - [DISABLE] Android Setup deshabilitada
+19/08/2025 14:58:24 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 14:58:24 - [DISABLE] Google Discover deshabilitado
+19/08/2025 14:58:43 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 14:58:44 - [OPEN] OnlyOffice abierto
+19/08/2025 14:58:44 - successful - S5-18
+19/08/2025 14:58:44 - R92X51H3ACH → S5-18 completado en 25.97s
+19/08/2025 15:01:22 - ADB conectado correctamente - R92X40M2TDB
+19/08/2025 15:01:23 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:01:23 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:01:23 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:01:24 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:01:24 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:01:24 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:01:24 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:01:25 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:01:25 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:01:25 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:01:26 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:01:26 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:01:26 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:01:44 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:01:46 - [OPEN] OnlyOffice abierto
+19/08/2025 15:01:46 - successful - S5-19
+19/08/2025 15:01:46 - R92X40M2TDB → S5-19 completado en 23.89s
+19/08/2025 15:03:56 - ADB conectado correctamente - R92X40M28LV
+19/08/2025 15:03:56 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:03:57 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:03:57 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:03:58 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:03:58 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:03:59 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:03:59 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:03:59 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:04:00 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:04:00 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:04:01 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:04:01 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:04:01 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:04:20 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:04:21 - [OPEN] OnlyOffice abierto
+19/08/2025 15:04:22 - successful - S5-20
+19/08/2025 15:04:22 - R92X40M28LV → S5-20 completado en 25.82s
+19/08/2025 15:10:37 - ADB conectado correctamente - R92X40M1W5Z
+19/08/2025 15:10:37 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:10:37 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:10:38 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:10:38 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:10:39 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:10:39 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:10:40 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:10:40 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:10:40 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:10:41 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:10:41 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:10:41 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:10:41 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:11:04 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:11:06 - [OPEN] OnlyOffice abierto
+19/08/2025 15:11:06 - successful - S5-21
+19/08/2025 15:11:06 - R92X40M1W5Z → S5-21 completado en 29.23s
+19/08/2025 15:13:14 - ADB conectado correctamente - R92X61G1YHW
+19/08/2025 15:13:15 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:13:15 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:13:16 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:13:16 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:13:16 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:13:16 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:13:17 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:13:17 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:13:17 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:13:18 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:13:18 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:13:18 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:13:18 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:13:39 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:13:41 - [OPEN] OnlyOffice abierto
+19/08/2025 15:13:41 - successful - S5-22
+19/08/2025 15:13:41 - R92X61G1YHW → S5-22 completado en 27.24s
+19/08/2025 15:15:51 - ADB conectado correctamente - R92X40M07NM
+19/08/2025 15:15:52 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:15:52 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:15:53 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:15:53 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:15:53 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:15:54 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:15:54 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:15:54 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:15:55 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:15:55 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:15:55 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:15:56 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:15:56 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:16:15 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:16:17 - [OPEN] OnlyOffice abierto
+19/08/2025 15:16:17 - successful - S5-23
+19/08/2025 15:16:17 - R92X40M07NM → S5-23 completado en 25.93s
+19/08/2025 15:19:14 - ADB conectado correctamente - R92X51H3TAT
+19/08/2025 15:19:15 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:19:15 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:19:16 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:19:16 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:19:16 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:19:17 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:19:17 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:19:17 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:19:17 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:19:18 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:19:18 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:19:18 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:19:18 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:19:38 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:19:40 - [OPEN] OnlyOffice abierto
+19/08/2025 15:19:40 - successful - S5-24
+19/08/2025 15:19:40 - R92X51H3TAT → S5-24 completado en 26.23s
+19/08/2025 15:23:00 - ADB conectado correctamente - R92X51H3T0Y
+19/08/2025 15:23:01 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:23:01 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:23:02 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:23:02 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:23:02 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:23:03 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:23:03 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:23:04 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:23:04 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:23:05 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:23:05 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:23:05 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:23:05 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:23:25 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:23:27 - [OPEN] OnlyOffice abierto
+19/08/2025 15:23:27 - successful - S5-25
+19/08/2025 15:23:27 - R92X51H3T0Y → S5-25 completado en 27.08s
+19/08/2025 15:30:30 - ADB conectado correctamente - R92X40LZDRD
+19/08/2025 15:30:31 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:30:31 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:30:32 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:30:32 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:30:32 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:30:33 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:30:33 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:30:33 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:30:34 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:30:34 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:30:34 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:30:35 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:30:35 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:30:52 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:30:54 - [OPEN] OnlyOffice abierto
+19/08/2025 15:30:54 - successful - S5-26
+19/08/2025 15:30:54 - R92X40LZDRD → S5-26 completado en 23.86s
+19/08/2025 15:37:22 - ADB conectado correctamente - R92X61G1YEZ
+19/08/2025 15:37:22 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:37:23 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:37:24 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:37:24 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:37:24 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:37:25 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:37:25 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:37:25 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:37:26 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:37:26 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:37:26 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:37:27 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:37:27 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:37:46 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:37:47 - [OPEN] OnlyOffice abierto
+19/08/2025 15:37:48 - successful - S5-27
+19/08/2025 15:37:48 - R92X61G1YEZ → S5-27 completado en 25.53s
+19/08/2025 15:43:01 - ADB conectado correctamente - List
+19/08/2025 15:43:01 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+19/08/2025 15:43:01 - [UNINSTALL] com.spotify.music no encontrada o error
+19/08/2025 15:43:01 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+19/08/2025 15:43:01 - [UNINSTALL] com.samsung.sree no encontrada o error
+19/08/2025 15:43:01 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:43:01 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+19/08/2025 15:43:01 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:43:01 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+19/08/2025 15:43:01 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+19/08/2025 15:43:01 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+19/08/2025 15:43:01 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:43:01 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:43:01 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:43:02 - [INSTALL] Error instalando OnlyOffice
+19/08/2025 15:43:02 - [OPEN] OnlyOffice abierto
+19/08/2025 15:43:02 - successful - S5-28
+19/08/2025 15:43:02 - List → S5-28 completado en 0.45s
+19/08/2025 15:43:32 - ADB conectado correctamente - R92X40M2F4Z
+19/08/2025 15:43:33 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:43:33 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:43:34 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:43:34 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:43:34 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:43:35 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:43:35 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:43:35 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:43:36 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:43:36 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:43:37 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:43:37 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:43:37 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:43:56 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:43:58 - [OPEN] OnlyOffice abierto
+19/08/2025 15:43:58 - successful - S5-29
+19/08/2025 15:43:58 - R92X40M2F4Z → S5-29 completado en 25.68s
+19/08/2025 15:54:00 - ADB conectado correctamente - R92X40M15DY
+19/08/2025 15:54:00 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:54:00 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:54:01 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:54:01 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:54:01 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:54:01 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:54:02 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:54:02 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:54:02 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:54:03 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:54:03 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:54:03 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:54:03 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:54:24 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:54:26 - [OPEN] OnlyOffice abierto
+19/08/2025 15:54:27 - successful - S5-30
+19/08/2025 15:54:27 - R92X40M15DY → S5-30 completado en 27.03s
+19/08/2025 15:56:47 - ADB conectado correctamente - List
+19/08/2025 15:56:47 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+19/08/2025 15:56:47 - [UNINSTALL] com.spotify.music no encontrada o error
+19/08/2025 15:56:47 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+19/08/2025 15:56:47 - [UNINSTALL] com.samsung.sree no encontrada o error
+19/08/2025 15:56:47 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:56:47 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+19/08/2025 15:56:47 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:56:47 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+19/08/2025 15:56:48 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+19/08/2025 15:56:48 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+19/08/2025 15:56:48 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:56:48 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:56:48 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:56:48 - [INSTALL] Error instalando OnlyOffice
+19/08/2025 15:56:48 - [OPEN] OnlyOffice abierto
+19/08/2025 15:56:48 - successful - S5-31
+19/08/2025 15:56:48 - List → S5-31 completado en 0.89s
+19/08/2025 15:57:08 - ADB conectado correctamente - R92X40LZMXD
+19/08/2025 15:57:09 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:57:09 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:57:10 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:57:10 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:57:10 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:57:11 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:57:11 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:57:12 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:57:12 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:57:12 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:57:13 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:57:13 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:57:13 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:57:31 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:57:33 - [OPEN] OnlyOffice abierto
+19/08/2025 15:57:33 - successful - S5-32
+19/08/2025 15:57:33 - R92X40LZMXD → S5-32 completado en 24.62s
+19/08/2025 15:59:30 - ADB conectado correctamente - R92X61G1YKR
+19/08/2025 15:59:30 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 15:59:31 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 15:59:31 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 15:59:31 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 15:59:31 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 15:59:32 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 15:59:33 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 15:59:33 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 15:59:33 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 15:59:34 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 15:59:34 - [DISABLE] Android Setup deshabilitada
+19/08/2025 15:59:34 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 15:59:35 - [DISABLE] Google Discover deshabilitado
+19/08/2025 15:59:55 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 15:59:57 - [OPEN] OnlyOffice abierto
+19/08/2025 15:59:57 - successful - S5-33
+19/08/2025 15:59:57 - R92X61G1YKR → S5-33 completado en 27.64s
+19/08/2025 16:02:05 - ADB conectado correctamente - R92X61G25NX
+19/08/2025 16:02:05 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 16:02:06 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 16:02:06 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 16:02:07 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 16:02:07 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 16:02:07 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 16:02:07 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 16:02:08 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 16:02:08 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 16:02:08 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 16:02:08 - [DISABLE] Android Setup deshabilitada
+19/08/2025 16:02:09 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 16:02:09 - [DISABLE] Google Discover deshabilitado
+19/08/2025 16:02:28 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 16:02:30 - [OPEN] OnlyOffice abierto
+19/08/2025 16:02:30 - successful - S5-34
+19/08/2025 16:02:30 - R92X61G25NX → S5-34 completado en 25.11s
+19/08/2025 16:05:09 - ADB conectado correctamente - R92X40LZ7GJ
+19/08/2025 16:05:09 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 16:05:10 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 16:05:10 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 16:05:10 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 16:05:11 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 16:05:11 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 16:05:11 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 16:05:12 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 16:05:12 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 16:05:12 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 16:05:13 - [DISABLE] Android Setup deshabilitada
+19/08/2025 16:05:13 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 16:05:13 - [DISABLE] Google Discover deshabilitado
+19/08/2025 16:05:33 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 16:05:35 - [OPEN] OnlyOffice abierto
+19/08/2025 16:05:35 - successful - S5-35
+19/08/2025 16:05:35 - R92X40LZ7GJ → S5-35 completado en 26.44s
+19/08/2025 16:07:22 - ADB conectado correctamente - R92X40LZG2L
+19/08/2025 16:07:22 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 16:07:23 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 16:07:23 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 16:07:24 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 16:07:24 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 16:07:24 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 16:07:24 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 16:07:25 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 16:07:25 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 16:07:25 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 16:07:26 - [DISABLE] Android Setup deshabilitada
+19/08/2025 16:07:26 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 16:07:26 - [DISABLE] Google Discover deshabilitado
+19/08/2025 16:07:48 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 16:07:50 - [OPEN] OnlyOffice abierto
+19/08/2025 16:07:50 - successful - S5-36
+19/08/2025 16:07:50 - R92X40LZG2L → S5-36 completado en 28.44s
+19/08/2025 16:09:59 - ADB conectado correctamente - R92X51MKAPP
+19/08/2025 16:09:59 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 16:10:00 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 16:10:00 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 16:10:01 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 16:10:01 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 16:10:01 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 16:10:02 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 16:10:02 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 16:10:03 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 16:10:03 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 16:10:03 - [DISABLE] Android Setup deshabilitada
+19/08/2025 16:10:03 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 16:10:04 - [DISABLE] Google Discover deshabilitado
+19/08/2025 16:10:23 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 16:10:25 - [OPEN] OnlyOffice abierto
+19/08/2025 16:10:25 - successful - S5-37
+19/08/2025 16:10:25 - R92X51MKAPP → S5-37 completado en 25.83s
+19/08/2025 16:16:27 - ADB conectado correctamente - R92X40M1VZB
+19/08/2025 16:16:27 - [UNINSTALL] com.netflix.mediaclient eliminada
+19/08/2025 16:16:28 - [UNINSTALL] com.spotify.music eliminada
+19/08/2025 16:16:28 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+19/08/2025 16:16:29 - [UNINSTALL] com.samsung.sree eliminada
+19/08/2025 16:16:29 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+19/08/2025 16:16:29 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+19/08/2025 16:16:30 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+19/08/2025 16:16:30 - [UNINSTALL] com.microsoft.office.outlook eliminada
+19/08/2025 16:16:31 - [UNINSTALL] com.microsoft.skydrive eliminada
+19/08/2025 16:16:31 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+19/08/2025 16:16:31 - [DISABLE] Android Setup deshabilitada
+19/08/2025 16:16:32 - [DISABLE] Samsung Daily deshabilitado
+19/08/2025 16:16:32 - [DISABLE] Google Discover deshabilitado
+19/08/2025 16:16:52 - [INSTALL] OnlyOffice instalado correctamente
+19/08/2025 16:16:54 - [OPEN] OnlyOffice abierto
+19/08/2025 16:16:54 - successful - S5-38
+19/08/2025 16:16:54 - R92X40M1VZB → S5-38 completado en 27.25s
+20/08/2025 15:57:48 - Error: No hay dispositivos conectados
+20/08/2025 15:57:53 - ADB conectado correctamente - R92X40LZ8SF
+20/08/2025 15:57:53 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 15:57:54 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 15:57:55 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 15:57:55 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 15:57:55 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 15:57:56 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 15:57:56 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 15:57:56 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 15:57:57 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 15:57:58 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 15:57:58 - [DISABLE] Android Setup deshabilitada
+20/08/2025 15:57:58 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 15:57:58 - [DISABLE] Google Discover deshabilitado
+20/08/2025 15:58:18 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 15:58:20 - [OPEN] OnlyOffice abierto
+20/08/2025 15:58:20 - successful - S4-12
+20/08/2025 15:58:20 - R92X40LZ8SF → S4-12 completado en 27.47s
+20/08/2025 16:02:38 - ADB conectado correctamente - R92X61G1ZVT
+20/08/2025 16:02:38 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:02:39 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:02:39 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:02:40 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:02:40 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:02:41 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:02:41 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:02:41 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:02:42 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:02:42 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:02:42 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:02:43 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:02:43 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:03:02 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:03:04 - [OPEN] OnlyOffice abierto
+20/08/2025 16:03:05 - successful - S4-18
+20/08/2025 16:03:05 - R92X61G1ZVT → S4-18 completado en 26.83s
+20/08/2025 16:04:45 - ADB conectado correctamente - R92X61G1VLF
+20/08/2025 16:04:46 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:04:46 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:04:47 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:04:47 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:04:47 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:04:48 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:04:48 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:04:48 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:04:48 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:04:49 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:04:49 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:04:49 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:04:49 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:05:07 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:05:09 - [OPEN] OnlyOffice abierto
+20/08/2025 16:05:09 - successful - S4-19
+20/08/2025 16:05:09 - R92X61G1VLF → S4-19 completado en 24.01s
+20/08/2025 16:08:22 - ADB conectado correctamente - R92X40LZ8CV
+20/08/2025 16:08:23 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:08:23 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:08:24 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:08:24 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:08:24 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:08:25 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:08:26 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:08:26 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:08:26 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:08:27 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:08:27 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:08:27 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:08:27 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:08:49 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:08:51 - [OPEN] OnlyOffice abierto
+20/08/2025 16:08:51 - successful - S4-20
+20/08/2025 16:08:51 - R92X40LZ8CV → S4-20 completado en 29.07s
+20/08/2025 16:12:11 - ADB conectado correctamente - R92X40M1YNB
+20/08/2025 16:12:11 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:12:12 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:12:12 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:12:13 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:12:13 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:12:13 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:12:13 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:12:14 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:12:14 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:12:14 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:12:15 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:12:15 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:12:15 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:12:35 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:12:37 - [OPEN] OnlyOffice abierto
+20/08/2025 16:12:37 - successful - S4-21
+20/08/2025 16:12:37 - R92X40M1YNB → S4-21 completado en 25.90s
+20/08/2025 16:24:35 - ADB conectado correctamente - R92X40M1WGB
+20/08/2025 16:24:35 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:24:36 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:24:36 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:24:37 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:24:37 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:24:37 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:24:38 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:24:38 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:24:38 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:24:39 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:24:39 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:24:39 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:24:40 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:25:01 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:25:03 - [OPEN] OnlyOffice abierto
+20/08/2025 16:25:04 - successful - S4-22
+20/08/2025 16:25:04 - R92X40M1WGB → S4-22 completado en 28.74s
+20/08/2025 16:27:20 - ADB conectado correctamente - R92X61G1ZWV
+20/08/2025 16:27:21 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:27:21 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:27:21 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:27:22 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:27:22 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:27:22 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:27:22 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:27:23 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:27:23 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:27:24 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:27:24 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:27:24 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:27:25 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:27:44 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:27:45 - [OPEN] OnlyOffice abierto
+20/08/2025 16:27:46 - successful - S4-23
+20/08/2025 16:27:46 - R92X61G1ZWV → S4-23 completado en 25.36s
+20/08/2025 16:29:30 - ADB conectado correctamente - R92X51MKAXD
+20/08/2025 16:29:31 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:29:31 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:29:32 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:29:32 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:29:32 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:29:33 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:29:33 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:29:33 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:29:33 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:29:34 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:29:34 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:29:35 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:29:35 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:29:56 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:29:58 - [OPEN] OnlyOffice abierto
+20/08/2025 16:29:58 - successful - S4-24
+20/08/2025 16:29:58 - R92X51MKAXD → S4-24 completado en 28.04s
+20/08/2025 16:32:40 - ADB conectado correctamente - R92X40M1Y6W
+20/08/2025 16:32:40 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:32:41 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:32:42 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:32:42 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:32:42 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:32:43 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:32:43 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:32:44 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:32:44 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:32:45 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:32:45 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:32:45 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:32:45 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:33:07 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:33:09 - [OPEN] OnlyOffice abierto
+20/08/2025 16:33:09 - successful - S4-25
+20/08/2025 16:33:09 - R92X40M1Y6W → S4-25 completado en 29.27s
+20/08/2025 16:35:10 - ADB conectado correctamente - R92X40M0KDL
+20/08/2025 16:35:11 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:35:11 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:35:12 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:35:12 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:35:12 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:35:13 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:35:13 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:35:14 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:35:14 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:35:14 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:35:14 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:35:15 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:35:15 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:35:36 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:35:37 - [OPEN] OnlyOffice abierto
+20/08/2025 16:35:38 - successful - S4-26
+20/08/2025 16:35:38 - R92X40M0KDL → S4-26 completado en 27.48s
+20/08/2025 16:38:02 - ADB conectado correctamente - R92X40M1YJT
+20/08/2025 16:38:03 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:38:03 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:38:04 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:38:04 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:38:04 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:38:05 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:38:05 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:38:06 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:38:06 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:38:06 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:38:06 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:38:07 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:38:07 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:38:28 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:38:30 - [OPEN] OnlyOffice abierto
+20/08/2025 16:38:30 - successful - S4-27
+20/08/2025 16:38:30 - R92X40M1YJT → S4-27 completado en 27.64s
+20/08/2025 16:41:59 - Error: No hay dispositivos conectados
+20/08/2025 16:42:21 - ADB conectado correctamente - R92X61G1YTM
+20/08/2025 16:42:21 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:42:22 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:42:23 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:42:23 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:42:23 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:42:24 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:42:24 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:42:24 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:42:25 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:42:25 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:42:25 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:42:25 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:42:26 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:42:47 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:42:48 - [OPEN] OnlyOffice abierto
+20/08/2025 16:42:48 - successful - S4-28
+20/08/2025 16:42:48 - R92X61G1YTM → S4-28 completado en 27.54s
+20/08/2025 16:44:34 - Error: No hay dispositivos conectados
+20/08/2025 16:44:37 - ADB conectado correctamente - R92X61G1V4A
+20/08/2025 16:44:38 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:44:38 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:44:39 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:44:39 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:44:39 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:44:40 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:44:40 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:44:40 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:44:41 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:44:41 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:44:41 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:44:42 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:44:42 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:45:01 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:45:03 - [OPEN] OnlyOffice abierto
+20/08/2025 16:45:03 - successful - S4-29
+20/08/2025 16:45:03 - R92X61G1V4A → S4-29 completado en 25.80s
+20/08/2025 16:47:07 - ADB conectado correctamente - R92X40M164B
+20/08/2025 16:47:07 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:47:07 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:47:08 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:47:08 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:47:08 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:47:09 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:47:09 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:47:09 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:47:10 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:47:10 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:47:10 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:47:10 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:47:11 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:47:31 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:47:34 - [OPEN] OnlyOffice abierto
+20/08/2025 16:47:34 - successful - S4-30
+20/08/2025 16:47:34 - R92X40M164B → S4-30 completado en 27.14s
+20/08/2025 16:50:28 - ADB conectado correctamente - R92X40M1VMZ
+20/08/2025 16:50:29 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:50:29 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:50:30 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:50:30 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:50:30 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:50:31 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:50:31 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:50:31 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:50:31 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:50:32 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:50:32 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:50:32 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:50:33 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:50:53 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:50:55 - [OPEN] OnlyOffice abierto
+20/08/2025 16:50:56 - successful - S4-31
+20/08/2025 16:50:56 - R92X40M1VMZ → S4-31 completado en 27.31s
+20/08/2025 16:52:45 - ADB conectado correctamente - R92X40M137Y
+20/08/2025 16:52:45 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:52:46 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:52:46 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:52:47 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:52:47 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:52:47 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:52:47 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:52:48 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:52:48 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:52:49 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:52:49 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:52:49 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:52:50 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:53:12 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:53:14 - [OPEN] OnlyOffice abierto
+20/08/2025 16:53:14 - successful - S4-32
+20/08/2025 16:53:14 - R92X40M137Y → S4-32 completado en 29.08s
+20/08/2025 16:55:06 - ADB conectado correctamente - R92X61G265E
+20/08/2025 16:55:06 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:55:07 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:55:07 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:55:08 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:55:08 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:55:09 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:55:09 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:55:10 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:55:10 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:55:10 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:55:10 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:55:11 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:55:11 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:55:30 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:55:32 - [OPEN] OnlyOffice abierto
+20/08/2025 16:55:32 - successful - S4-33
+20/08/2025 16:55:32 - R92X61G265E → S4-33 completado en 25.97s
+20/08/2025 16:58:24 - Error: No hay dispositivos conectados
+20/08/2025 16:58:47 - ADB conectado correctamente - R92X40M35MJ
+20/08/2025 16:58:48 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 16:58:50 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 16:58:50 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 16:58:51 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 16:58:51 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 16:58:51 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 16:58:52 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 16:58:52 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 16:58:52 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 16:58:53 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 16:58:53 - [DISABLE] Android Setup deshabilitada
+20/08/2025 16:58:54 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 16:58:54 - [DISABLE] Google Discover deshabilitado
+20/08/2025 16:59:12 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 16:59:14 - [OPEN] OnlyOffice abierto
+20/08/2025 16:59:14 - successful - S4-34
+20/08/2025 16:59:14 - R92X40M35MJ → S4-34 completado en 27.34s
+20/08/2025 17:01:49 - ADB conectado correctamente - R92X51MK93N
+20/08/2025 17:01:49 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 17:01:50 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 17:01:50 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 17:01:50 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 17:01:51 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 17:01:51 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 17:01:51 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 17:01:52 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 17:01:52 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 17:01:52 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 17:01:53 - [DISABLE] Android Setup deshabilitada
+20/08/2025 17:01:53 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 17:01:53 - [DISABLE] Google Discover deshabilitado
+20/08/2025 17:02:12 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 17:02:14 - [OPEN] OnlyOffice abierto
+20/08/2025 17:02:14 - successful - S4-35
+20/08/2025 17:02:14 - R92X51MK93N → S4-35 completado en 25.38s
+20/08/2025 17:04:10 - ADB conectado correctamente - R92X51H39QD
+20/08/2025 17:04:10 - [UNINSTALL] com.netflix.mediaclient eliminada
+20/08/2025 17:04:11 - [UNINSTALL] com.spotify.music eliminada
+20/08/2025 17:04:11 - [UNINSTALL] com.google.android.apps.youtube.music eliminada
+20/08/2025 17:04:12 - [UNINSTALL] com.samsung.sree eliminada
+20/08/2025 17:04:12 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+20/08/2025 17:04:13 - [UNINSTALL] com.samsung.android.game.gamehome eliminada
+20/08/2025 17:04:13 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+20/08/2025 17:04:14 - [UNINSTALL] com.microsoft.office.outlook eliminada
+20/08/2025 17:04:15 - [UNINSTALL] com.microsoft.skydrive eliminada
+20/08/2025 17:04:15 - [UNINSTALL] com.microsoft.office.officehubrow eliminada
+20/08/2025 17:04:16 - [DISABLE] Android Setup deshabilitada
+20/08/2025 17:04:16 - [DISABLE] Samsung Daily deshabilitado
+20/08/2025 17:04:16 - [DISABLE] Google Discover deshabilitado
+20/08/2025 17:04:36 - [INSTALL] OnlyOffice instalado correctamente
+20/08/2025 17:04:38 - [OPEN] OnlyOffice abierto
+20/08/2025 17:04:38 - successful - S4-36
+20/08/2025 17:04:38 - R92X51H39QD → S4-36 completado en 28.53s
+05/09/2025 13:09:52 - ADB conectado correctamente - List
+05/09/2025 13:09:52 - [UNINSTALL] com.netflix.mediaclient no encontrada o error
+05/09/2025 13:09:52 - [UNINSTALL] com.spotify.music no encontrada o error
+05/09/2025 13:09:52 - [UNINSTALL] com.google.android.apps.youtube.music no encontrada o error
+05/09/2025 13:09:52 - [UNINSTALL] com.samsung.sree no encontrada o error
+05/09/2025 13:09:52 - [UNINSTALL] com.samsung.android.samsungpassautofill no encontrada o error
+05/09/2025 13:09:52 - [UNINSTALL] com.samsung.android.game.gamehome no encontrada o error
+05/09/2025 13:09:52 - [UNINSTALL] com.disney.disneyplus no encontrada o error
+05/09/2025 13:09:52 - [UNINSTALL] com.microsoft.office.outlook no encontrada o error
+05/09/2025 13:09:52 - [UNINSTALL] com.microsoft.skydrive no encontrada o error
+05/09/2025 13:09:52 - [UNINSTALL] com.microsoft.office.officehubrow no encontrada o error
+05/09/2025 13:09:52 - [DISABLE] Android Setup deshabilitada
+05/09/2025 13:09:53 - [DISABLE] Samsung Daily deshabilitado
+05/09/2025 13:09:53 - [DISABLE] Google Discover deshabilitado
+05/09/2025 13:09:53 - [INSTALL] Error instalando OnlyOffice
+05/09/2025 13:09:53 - [OPEN] OnlyOffice abierto
+05/09/2025 13:09:53 - successful - S4-37
+05/09/2025 13:09:53 - List → S4-37 completado en 3.56s
